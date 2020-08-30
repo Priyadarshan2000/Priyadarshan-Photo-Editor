@@ -4,10 +4,9 @@
 # Photo Editor Home Page
 ![image](https://user-images.githubusercontent.com/62868878/91664954-186ca980-eb10-11ea-9555-7ee4ccc1a5ef.png)
 
-# Photo Editing
+# Some  Editing Effect
 ![image](https://user-images.githubusercontent.com/62868878/91665431-1f48eb80-eb13-11ea-8bfd-a8a407b5b4c7.png)
 
-# Some Photo Editing Effect
 ![image](https://user-images.githubusercontent.com/62868878/91665442-40a9d780-eb13-11ea-8a9c-4c215c5c8ae1.png)
 
 ![image](https://user-images.githubusercontent.com/62868878/91665491-9e3e2400-eb13-11ea-9963-2017e064aa99.png)
